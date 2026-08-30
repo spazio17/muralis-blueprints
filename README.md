@@ -5,8 +5,8 @@ an Android kiosk launcher for a wall-mounted tablet.
 
 Muralis publishes its controls and sensors over MQTT discovery, so a panel arrives in Home
 Assistant as a device with buttons, switches, a battery level and the rest. These blueprints are
-the two things people end up wanting from such a panel, written once so nobody has to work them
-out again.
+ready-made automations built on those entities, written once so nobody has to work them out
+again.
 
 | Blueprint | What it does |
 | --- | --- |
